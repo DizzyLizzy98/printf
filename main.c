@@ -1,3 +1,5 @@
+/* created by Dennis Phori and Lizzy Fouche */
+
 #include <limits.h>
 #include <stdio.h>
 #include "main.h"

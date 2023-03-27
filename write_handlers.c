@@ -1,3 +1,5 @@
+/* created by Dennis Phori and Lizzy Fouche */
+
 #include "main.h"
 
 /************************* WRITE HANDLE *************************/

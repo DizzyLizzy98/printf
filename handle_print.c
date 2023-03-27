@@ -1,3 +1,5 @@
+/* created by Dennis Phori and Lizzy Fouche */
+
 #include "main.h"
 /**
 * handle_print - Prints an argument based on its type

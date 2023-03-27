@@ -1,3 +1,5 @@
+/* created by Dennis Phori and Lizzy Fouche */
+
 
 #ifndef MAIN_H
 #define MAIN_H
