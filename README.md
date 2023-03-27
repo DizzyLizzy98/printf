@@ -1,3 +1,6 @@
+CONTRIBUTORS: Dennis Phori
+	      Lizzy Fouche
+
 
 0x11. C - printf
 C
