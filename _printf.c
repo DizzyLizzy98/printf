@@ -1,5 +1,3 @@
-/* created by Dennis Phori and Lizzy Fouche */
-
 #include "main.h"
 
 void print_buffer(char buffer[], int *buff_ind);
@@ -7,6 +5,7 @@ void print_buffer(char buffer[], int *buff_ind);
 /**
 * _printf - Printf function
 * @format: format.
+* created by  Lizzy Fouche & Dennis Phori
 * Return: Printed chars.
 */
 int _printf(const char *format, ...)
