@@ -1,3 +1,5 @@
+/* created by Lizzy Fouche and Dennis Phori */
+
 #include "main.h"
 
 /************************* PRINT CHAR *************************/
@@ -10,7 +12,6 @@
  * @width: Width
  * @precision: Precision specification
  * @size: Size specifier
- * created by Lizzy Fouche and Dennis Phori 
  * Return: Number of chars printed
  */
 int print_char(va_list types, char buffer[],
